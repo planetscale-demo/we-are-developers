@@ -1,5 +1,10 @@
 # PlanetScale Workflow Helper scripts 
 
+### Examples from the community how to make use of those pscale workflows
+
+In the [issues section of this repo](https://github.com/jonico/pscale-cli-helper-scripts/issues) you will find examples how to integrate your favorite framework and CI with the pscale workflow examples provided here. If you have our own examples you like to share with the commmunity and get the chance to win some swag, please [add your example here](https://github.com/jonico/pscale-cli-helper-scripts/issues/new/choose).
+
+
 📺 [Recording from live demo at PlanetScale Happy-Half-Hour](https://youtu.be/l3oe7srRUZw?t=610)
 
 This is a collection of GitHub Workflows and CI/CD helper scripts around [PlanetScale's database branching workflows](https://docs.planetscale.com/concepts/branching) to
